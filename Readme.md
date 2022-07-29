@@ -1,6 +1,6 @@
 MapTiler QML Demo
 =================
-This simple application demonstrates using MapTiler Cloud tile hosting inside Qt.
+This simple application demonstrates using [MapTiler Cloud](https://www.maptiler.com/cloud/) tile hosting inside Qt.
 
 Application is splitted into three tabs demonstrating three ways how to use MapTiler.
 
